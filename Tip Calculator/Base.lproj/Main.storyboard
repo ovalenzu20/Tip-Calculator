@@ -10,7 +10,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Tip Calculator-->
+        <!--Tipper-->
         <scene sceneID="tne-QT-ifu">
             <objects>
                 <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Tip_Calculator" customModuleProvider="target" sceneMemberID="viewController">
@@ -79,7 +79,7 @@
                             <outletCollection property="gestureRecognizers" destination="J3T-sh-EKn" appends="YES" id="2o7-Zo-gbU"/>
                         </connections>
                     </view>
-                    <navigationItem key="navigationItem" title="Tip Calculator" id="aOT-pk-khY"/>
+                    <navigationItem key="navigationItem" title="Tipper" id="aOT-pk-khY"/>
                     <connections>
                         <outlet property="billField" destination="QNk-nT-rjF" id="bBo-yv-Nm9"/>
                         <outlet property="tipControl" destination="nqq-34-Ibb" id="CGF-c8-Y4f"/>
